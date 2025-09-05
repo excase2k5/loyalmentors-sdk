@@ -1,13 +1,13 @@
-# LoyalMentors SDK (JavaScript)
+# LoyalMentors SDK
 
+The **LoyalMentors SDK** enables developers to build mini-apps and integrations on top of the **LoyalMentors SuperApp Ecosystem**.
 
-This SDK provides lightweight utilities to build LoyalMentors miniapps: Auth helpers, API client, local storage, event bus, and a small UI helper.
+## Features
+- 📦 Easy-to-use API wrappers
+- 🔑 Authentication helpers
+- 🧩 Utilities for integrating mini-apps
+- 🚀 Ready for community contributions
 
-
-## Install (local development)
-Copy this SDK folder into a directory and run:
-
-
+## Installation
 ```bash
-npm install
-npm run build
+npm install loyalmentors-sdk
